@@ -1,7 +1,7 @@
 {
-  "name": "rest-api",
+  "name": "chat-app",
   "version": "0.0.1",
-  "description": "This Rest API for MY Angular2 Projects.",
+  "description": "Rest API for Angular2 Chat-App Project.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
