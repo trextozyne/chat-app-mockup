@@ -14,4 +14,4 @@ Code for Angular application is in [Nodejs API folder](https://github.com/trexto
 The below commands to install this API.
 1. `npm install`
 2. `node server.js`
-3. ng serve listen on localhost:4200
+3. `ng serve` listen on `localhost:4200`
