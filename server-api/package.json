@@ -13,13 +13,13 @@
   "author": "Tosin Akinnifesi",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/debug-agent": "^2.5.0",
-    "bcrypt": "^1.0.3",
-    "body-parser": "^1.15.2",
-    "cors": "^2.8.1",
-    "dotenv": "^5.0.1",
-    "express": "^4.14.0",
-    "mongodb": "^2.2.19",
-    "socket.io": "^1.7.2"
+    "@google-cloud/debug-agent": "^3.0.2",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "socket.io": "^4.0.0"
   }
 }
